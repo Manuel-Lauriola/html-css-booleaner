@@ -4,13 +4,33 @@
   color: #fafffe;
   text-align: left;
   font-family: "Roboto Slab", serif;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 h1{
-  font-size: 3.5em;
+  font-size: 2.5em;
 }
 
-#title{
+.booleaner{
+  color: #007bff;
+}
 
+.highlight{
+  background-color: #ffff05;
+}
+
+.table{
+  width: 100%;
+  overflow-x: auto;
+  text-align: left;
+  border: none;
+}
+
+#thead{
+background-color: #20a9e8;
+border: none;
+}
+
+#row1-3{
+  background-color: #b1e6f2;
 }
